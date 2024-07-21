@@ -53,7 +53,7 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 (require 'calendar)
 (require 'holidays)
 (require 'format-spec)
